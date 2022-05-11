@@ -3,7 +3,7 @@
 ## ⚡️ Quick Start
 
 ```bash
-yarn create next-app -e https://github.com/colbyfayock/space-jelly-gear-starter
+yarn create next-app -e https://github.com/CaityGossland/space-jelly
 # or
-npx create-next-app -e https://github.com/colbyfayock/space-jelly-gear-starter
+npx create-next-app -e https://github.com/CaityGossland/space-jelly
 ```

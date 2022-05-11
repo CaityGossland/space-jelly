@@ -12,7 +12,7 @@ import styles from "@styles/Page.module.scss";
 
 export default function Home({ home, products }) {
   const { heroTitle, heroText, heroLink, heroBackground } = home;
-  console.log(products);
+
   return (
     <Layout>
       <Head>
